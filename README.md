@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackesunny
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning for deep in cyber Security 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning for deep in cyber Security. 
+- 💞️ I’m looking to collaborate on Security Company.
 - 📫 for Contact: Sunnykumar995523@gmil.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
